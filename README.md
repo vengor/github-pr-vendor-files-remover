@@ -2,10 +2,11 @@
 
 ![](./images/gopher.png)
 
-## Overview
-
-Chrome Extension to exclude `vendor/`-prefixed files from Github files view
+Chrome Extension to exclude `vendor/`-prefixed files from Github files view.
 
 Install and click the extension icon on the bar.
 
-Forked from https://github.com/tylfin/goexclude with lots of changes.
+## Installation
+
+Clone, then follow [unpacked extension installation isntructions](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked).
+
